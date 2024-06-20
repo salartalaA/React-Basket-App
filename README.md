@@ -1,5 +1,7 @@
 Basket App
+
 Welcome, Friend!
+
 This project is a basket application built with React.js.
 
 What is this Project and How Does it Work?
